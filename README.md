@@ -1,6 +1,6 @@
  👋 Hi there,
  
-     I’m Alex, web developer and currently focused on frontend applications with Angular and React.   
+     I’m Alex, web developer and currently focused on frontend applications using Angular and React.   
  
      I am also trying to expand my knowledge about the backend and the Java world.
 
